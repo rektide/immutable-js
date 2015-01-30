@@ -42,5 +42,6 @@ export default {
 
   is: is,
   fromJS: fromJS,
+  toJS: toJS,
 
 };
